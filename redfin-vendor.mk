@@ -649,13 +649,11 @@ PRODUCT_PACKAGES += \
     uimremoteserver \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
-    CarrierServices \
     CarrierSettings \
     CarrierWifi \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
     DiagMon \
     EuiccGoogle \
